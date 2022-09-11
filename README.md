@@ -15,9 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect With me:
 
-- [github]: https://github.com/SathmanGazi
-- [facebook]: https://www.facebook.com/sathman.gazi/
-
 <table>
     <tbody>
         <tr>
