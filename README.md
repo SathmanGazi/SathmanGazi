@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
     <tbody>
         <tr>
             <td><a href="https://www.linkedin.com/in/musa-al-sathman-gazi/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            <img height="50" src="[https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg](https://vectorwiki.com/images/NNbMO__linkedin-logo-2013.svg)" />
             </a></td>
         </tr>
     </tbody>
