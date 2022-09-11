@@ -18,3 +18,12 @@ You can click the Preview link to take a look at your changes.
 - [github]: https://github.com/SathmanGazi
 - [facebook]: https://www.facebook.com/sathman.gazi/
 
+<table>
+    <tbody>
+        <tr>
+            <td><a href="https://www.linkedin.com/in/musa-al-sathman-gazi/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            </a></td>
+        </tr>
+    </tbody>
+</table>
