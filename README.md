@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathmanGazi&theme=radical)
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
 
 ### Connect With me:
 
