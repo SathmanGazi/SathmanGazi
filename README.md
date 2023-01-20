@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Musa Al Sathman Gazi
 - 👀 I’m interested in gaming and watching series, anime, movies.
-- 🌱 I’m currently learning Database, React Native, C++ and Python
+- 🌱 I’m currently learning RDMS, React, C++ and Python
 - ## I'm a Computer Science student at University of South Florida
 ---
 
