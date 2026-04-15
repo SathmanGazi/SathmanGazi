@@ -1,17 +1,18 @@
 # Hey, I'm Gazi Musa Al Sathman 👋
+Full-stack engineer building production systems end-to-end — from backend APIs and databases to cloud infrastructure and deployment.
+B.S. in Computer Science, University of South Florida.
 
-Software Engineer with a focus on full-stack development and enterprise systems. B.S. in Computer Science from the University of South Florida.
+**What I work with:** TypeScript, Python, Next.js, React, FastAPI, PostgreSQL, Redis, Docker, AWS, GitHub Actions CI/CD
 
-**What I work with:** Python, React, JavaScript, SQL Server, PySide6, REST APIs, Power BI, CI/CD
-
-**What I've built:**
-- Manufacturing Execution Systems (MES) powering production workflows
-- E-commerce applications and internal enterprise tools
-- Data pipelines and automation that improved sprint delivery to 97%
+**What I've shipped:**
+- Multi-tenant B2B SaaS claims automation platform serving live insurance clients in Bangladesh (Lance)
+- Internal enterprise platforms supporting 50+ daily users at a publicly traded US medical tech company (Novanta)
+- E-commerce platform with full order management, admin workflows, and CI/CD
+- Data pipelines and Power BI dashboards cutting meeting prep from 30 minutes to 2 minutes
 
 **Certified:** AWS Cloud Practitioner
 
-Currently open to new opportunities — let's connect.
+Open to remote full-stack and backend roles worldwide — let's connect.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SathmanGazi&layout=compact&theme=radical"/>
 
